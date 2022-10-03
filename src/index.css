@@ -5,9 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+ 
+}
+
+.progress.right .progress-bar {
+  float: right !important;
+}
+.progress {height: 10px !important;}
+.btn-xs{
+    
+    font-size: 12px !important;
+    line-height: 1.5 !important;
+  
 }
